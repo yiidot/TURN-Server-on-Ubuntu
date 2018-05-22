@@ -10,7 +10,7 @@ NAT穿透--TURN Server在Ubuntu上的快速部署
 ### install the dependencies
 `apt-get update && apt-get install libssl-dev libevent-dev libhiredis-dev make -y`
 
-### Download the source tar
+### download the resource
 `wget -O turn.tar.gz http://turnserver.open-sys.org/downloads/v4.5.0.3/turnserver-4.5.0.3.tar.gz`
 
 ### unzip 
