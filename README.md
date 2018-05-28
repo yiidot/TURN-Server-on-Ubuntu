@@ -27,7 +27,7 @@ make && make install
 `sudo turnserver -a -o -v -n  --no-dtls --no-tls -u test:test -r "someRealm"`
 
 ## web-client
-```
+```JavaScript
 var config = { "iceServers": [
 	{
 		"urls": 'turn:123.207.188.35:3478',
